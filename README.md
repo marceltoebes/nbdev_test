@@ -1,5 +1,5 @@
-# Project name here
-> Summary description here.
+# Deck of Cards project
+> Bs project to check out nbdev functionality.
 
 
 This file will become your README and also the index of your documentation.
